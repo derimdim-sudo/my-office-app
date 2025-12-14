@@ -1,0 +1,9 @@
+/* ตั้งค่าพื้นฐานให้สวยงาม */
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@300;400;500;700&display=swap');
+
+body {
+  font-family: 'Sarabun', sans-serif;
+  background-color: #f8fafc;
+  margin: 0;
+  padding: 0;
+}
